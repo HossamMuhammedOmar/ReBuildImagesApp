@@ -1,4 +1,4 @@
-# ReImageApp
+# ReBuild Images App
 
 A new Flutter project.
 
